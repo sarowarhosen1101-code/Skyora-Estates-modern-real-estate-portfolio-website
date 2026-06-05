@@ -1,0 +1,6 @@
+{
+  "name": "Futuristic Luxury Real Estate Portfolio",
+  "description": "Futuristic luxury real estate portfolio featuring interactive 3D architecture, glassmorphism aesthetic, active analytics dashboard, and cinematic transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
