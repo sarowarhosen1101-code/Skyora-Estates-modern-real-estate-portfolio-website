@@ -3,10 +3,10 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect , React} from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Mail, Phone, MapPin, Landmark, Globe, Compass, Send, CheckCircle2, ChevronRight, Activity, Linkedin, Twitter, Sparkles } from 'lucide-react';
-import { PROPERTY_CATEGORIES } from '../types'; // fallback of tags
+// import { PROPERTY_CATEGORIES } from '../types'; // fallback of tags
 
 export default function Contact() {
   const [formData, setFormData] = useState({

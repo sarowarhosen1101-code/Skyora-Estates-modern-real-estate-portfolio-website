@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { useState } from 'react';
+import { useState, React } from 'react';
 import { Compass, Mail, Send, Activity, ShieldAlert, Globe } from 'lucide-react';
 
 export default function Footer() {
